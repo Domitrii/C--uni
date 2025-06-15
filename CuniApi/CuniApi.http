@@ -1,0 +1,6 @@
+@CuniApi_HostAddress = http://localhost:5206
+
+GET {{CuniApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
